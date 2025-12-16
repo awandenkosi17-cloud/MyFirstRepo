@@ -1,1 +1,1 @@
-I have learned so many things about cloning repository
+What I have learned from this course so far is the basics of using Git and GitHub on Ubuntu. I now know how to clone a repository, create and add new files, commit changes locally, and push them to GitHub successfully using a Personal Access Token for authentication.
